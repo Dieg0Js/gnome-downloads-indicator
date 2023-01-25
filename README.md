@@ -11,7 +11,7 @@ It allows you to:
     
     * OPEN items (Click on item)
     
-    * DELETE item from downloads (x button)
+    * DELETE item from downloads (X button)
     
 
 It hides completely when the downloas folder is empty, and listen for changes in directory.
