@@ -19,7 +19,7 @@ It hides completely when the downloas folder is empty, and listen for changes in
 /home/username/Downloads
 
 # Manual Installation
-Clone the repository to '~/.local/share/gnome-shell/extensions/gnome-downloads-indicator@Dieg0Js.github.io' and restart the
+Clone the repository to ~/.local/share/gnome-shell/extensions/gnome-downloads-indicator@Dieg0Js.github.io and restart the
 shell.
 
 Fork of Gnome Trash from Axel von Bertoldi
