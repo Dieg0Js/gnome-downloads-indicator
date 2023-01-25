@@ -9,7 +9,7 @@ It allows you to:
     
     * OPEN the downloads folder (Open Button)
     
-    * OPEN items (Click 0n item)
+    * OPEN items (Click on item)
     
     * DELETE item from downloads (x button)
     
