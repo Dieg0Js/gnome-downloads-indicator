@@ -1,7 +1,7 @@
 {
   "name": "Gnome Downloads Indicator",
   "description": "A minimal Downloads manager for the gnome shell",
-  "uuid": "gnome_downloads_indicator@Dieg0Js.github.io",
+  "uuid": "gnome-downloads-indicator@Dieg0Js.github.io",
   "original-authors": "Dieg0Js",
   "url": "https://github.com/Dieg0Js/gnome-downloads-indicator",
   "version": 1,
