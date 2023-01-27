@@ -18,7 +18,7 @@ It hides completely when the Downloads folder is empty, and listen for changes i
 # Manual Installation
 Clone the repository to ~/.local/share/gnome-shell/extensions/ and restart the shell:
 
-    * git clone https://github.com/Dieg0Js/gnome-downloads-indicator.git ~/.local/share/gnome-shell/extensions/gnome-downloads-indicator@Dieg0Js.github.io
+    git clone https://github.com/Dieg0Js/gnome-downloads-indicator.git ~/.local/share/gnome-shell/extensions/gnome-downloads-indicator@Dieg0Js.github.io
 
 Fork of Gnome Trash from Axel von Bertoldi
  * https://gitlab.com/bertoldia/gnome-shell-trash-extension
