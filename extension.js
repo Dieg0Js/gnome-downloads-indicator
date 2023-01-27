@@ -1,6 +1,6 @@
 /*
  * By @Dieg0Js - 2023
- * https://github.com/Dieg0Js/gnome-trash-indicator
+ * https://github.com/Dieg0Js/gnome-downloads-indicator
  *
  * Fork of Gnome Trash from Axel von Bertoldi
  * https://gitlab.com/bertoldia/gnome-shell-trash-extension
@@ -28,7 +28,7 @@ const PopupMenu = imports.ui.popupMenu;
 const PanelMenu = imports.ui.panelMenu;
 const ModalDialog = imports.ui.modalDialog;
 const Clutter = imports.gi.Clutter;
-const Gettext = imports.gettext.domain("gnome_trash_indicator");
+const Gettext = imports.gettext.domain("downloads_indicator");
 const _ = Gettext.gettext;
 const { St, GObject, Gio, GLib } = imports.gi;
 
@@ -321,7 +321,7 @@ const DownloadsMenu = GObject.registerClass(
     });
 
 function init(extensionMeta) {
-  ExtensionUtils.initTranslations("gnome_trash_indicator");
+  ExtensionUtils.initTranslations("downloads_indicator");
 }
 
 let _indicator;
