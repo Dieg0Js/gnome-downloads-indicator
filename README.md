@@ -16,7 +16,7 @@ It hides completely when the Downloads folder is empty, and listen for changes i
 /home/username/Downloads
 
 # Classic Installation
-Install the extensino from the official gnome extension page:
+Install the extension from the official gnome extension page:
 - https://extensions.gnome.org/extension/5712/downloads-indicator/
 
 # Manual Installation
