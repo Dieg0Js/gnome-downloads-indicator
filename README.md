@@ -1,5 +1,6 @@
-Downloads Indicator
-===========================
+# Downloads Indicator
+
+![screenshot_5712_KYODqu2](https://user-images.githubusercontent.com/30718505/227160542-92e0e2dd-e727-4268-9f7d-9b6980c5b6e7.png)
 
 A minimalist Downloads management extension for the Gnome Shell.
 
